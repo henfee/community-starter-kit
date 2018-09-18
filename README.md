@@ -3,14 +3,10 @@
 * this is a test
 * that's an apple
 
-DESCRIPTION PLACEHOLDER
-
 
 ## What it does
 
 * Be the best of github
-
-FEATURES PLACEHOLDER
 
 ## Getting started
 
