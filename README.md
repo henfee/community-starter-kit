@@ -1,15 +1,16 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
 * this is a test
 * that's an apple
 
-## What it does
+DESCRIPTION PLACEHOLDER
 
-FEATURES PLACEHOLDER
+
+## What it does
 
 * Be the best of github
 
+FEATURES PLACEHOLDER
 
 ## Getting started
 
